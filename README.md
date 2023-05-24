@@ -4,4 +4,4 @@ Composición, 1952. José Pedro Costigliolo.
 
 Versión N° 1 en p5js, por Natalia Argañaraz.
 
-URL: https://editor.p5js.org/planetanati/sketches/ql7aPCHFS
+URL: https://editor.p5js.org/planetanati/full/ql7aPCHFS
